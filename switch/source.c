@@ -26,6 +26,8 @@ int main(){
       break;
   }
 
+  // breaks are needed, if not it will print everything
+
   return 0;
 
 }
