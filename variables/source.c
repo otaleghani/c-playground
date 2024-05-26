@@ -2,6 +2,9 @@
 #include <stdbool.h>
 
 int main() {
+  // constants, read only variable
+  const int ASD = 3;
+
   int x;          // declaration
   x = 123;        // initialization
   int y = 123;    // initialization
